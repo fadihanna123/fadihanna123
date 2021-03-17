@@ -1,5 +1,5 @@
 Hi i'm Fadi Hanna <br />
-Web developer and smart IT guy <br />
+Web developer and smart IT guy and looking for jobs <br />
 
 ## Skills:
 
