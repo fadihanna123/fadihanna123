@@ -25,4 +25,4 @@ Web developer and smart IT guy <br />
 <li> Certificate of Completion HTML Essential Training, Linkedin </li>
 </ul>
 
-View Portofolio : >> <a href="https://mitt-cv.com">Mitt CV</a>
+View Portofolio : >> <a href="https://mitt-cv.com" target="_blank">Mitt CV</a>
