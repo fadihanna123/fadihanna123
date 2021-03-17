@@ -1,4 +1,4 @@
-Hi i'm Fadi Hanna <br />
+Hi i'm <b>Fadi Hanna</b> <br />
 Web developer and smart IT guy and looking for jobs <br />
 
 ## Skills:
