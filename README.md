@@ -1,4 +1,6 @@
 Hi i'm Fadi Hanna
+Skills:
+
 [![fadihanna123's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadihanna123)](https://github.com/fadihanna123/github-readme-stats)
 ![fadihanna123's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadihanna123&hide=contribs,prs)
 ![fadihanna123's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadihanna123&count_private=true)
@@ -16,3 +18,4 @@ Hi i'm Fadi Hanna
 <a href="https://github.com/fadihanna123/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fadihanna123&repo=convoychat" />
 </a>
+<img src="https://raw.githubusercontent.com/fadihanna123/fadihanna123/master/html.gif" width="30px">
