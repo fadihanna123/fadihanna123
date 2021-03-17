@@ -7,3 +7,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihanna123)](https://github.com/fadihanna123/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihanna123&exclude_repo=github-readme-stats,fadihanna123.github.io)](https://github.com/fadihanna123/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihanna123&hide=javascript,html)](https://github.com/fadihanna123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihanna123&langs_count=8)](https://github.com/fadihanna123/github-readme-stats)
