@@ -15,7 +15,7 @@ Web developer, smart IT guy and looking for jobs. <br />
 ## Github Stats
 
 ![fadihanna123's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadihanna123&show_icons=true&theme=radical) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihanna123&langs_count=9)](https://github.com/fadihanna123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihanna123&langs_count=11)](https://github.com/fadihanna123/github-readme-stats)
 
 ## Certificates
 
