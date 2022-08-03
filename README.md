@@ -1,6 +1,7 @@
 Hi i'm <b>Fadi Hanna</b> <br />
 Web developer, smart IT guy and looking for jobs. <br />
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/279/man-technologist_1f468-200d-1f4bb.png" />
+
 ## Skills:
 
 <img src="https://img.shields.io/badge/-React.js-blueviolet" alt="React.js" /> <img src="https://img.shields.io/badge/-Angular-darkred" alt="Angular" /> <img src="https://img.shields.io/badge/-Redux-blueviolet" alt="Redux" /> <img src="https://img.shields.io/badge/-JavaScript-blueviolet" alt="JavaScript" /> <img src="https://img.shields.io/badge/-PHP-blue" alt="PHP" /> <img src="https://img.shields.io/badge/-React Native-blue" alt="React Native" /> <img src="https://img.shields.io/badge/-Azure-blue" alt="Azure" aria-label="Azure" loading="lazy" /> <img src="https://img.shields.io/badge/-Strapi-blue" alt="Strapi CMS" /> <img src="https://img.shields.io/badge/-Wordpress-blue" alt="Wordpress" /> <br /> <img src="https://img.shields.io/badge/-ASP.NET-blueviolet" alt="ASP.NET" />
