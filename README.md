@@ -32,5 +32,3 @@ Web developer, smart IT guy and looking for jobs. <br />
 <li> Certificate of Completion CSS Essential Training, Linkedin </li>
 <li> Certificate of Completion HTML Essential Training, Linkedin </li>
 </ul>
-
-View Portofolio : >> <a href="https://mitt-cv.com" target="_blank">Mitt CV</a>
