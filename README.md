@@ -21,6 +21,7 @@ Web developer, smart IT guy and looking for jobs. <br />
 
 ![fadihanna123's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadihanna123&show_icons=true&theme=radical) <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihanna123&theme=tokyonight&langs_count=15) <br />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fadihanna123&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=fadihanna123)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Certificates
