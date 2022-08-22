@@ -1,3 +1,5 @@
+<img src="https://github.com/fadihanna123/fadihanna123/blob/main/banner.png?raw=true" />
+
 Hi i'm <b>Fadi Hanna</b> <br />
 Web developer, smart IT guy and looking for jobs. <br />
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/279/man-technologist_1f468-200d-1f4bb.png" />
