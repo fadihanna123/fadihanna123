@@ -1,5 +1,5 @@
 <img src="https://github.com/fadihanna123/fadihanna123/blob/main/banner.png?raw=true" />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%7B+%22name%22%3A+%22Fadi+Hanna%22%2C+age%3A+30+%7D;%7B+%22hobbies%22%3A++%5B'gaming'%2C+'coding'%5D+%7D)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%7B+%22name%22%3A+%22Fadi+Hanna%22%2C+age%3A+30+%7D;%7B+%22hobbies%22%3A++%5B'gaming'%2C+'coding'%5D+%7D" alt="Typing SVG" /></a>
 
 Hi i'm <b>Fadi Hanna</b> <br />
 Web developer, smart IT guy and looking for jobs. <br />
