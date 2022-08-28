@@ -26,8 +26,7 @@ Web developer, smart IT guy and looking for jobs. <br />
 <img src="https://img.shields.io/badge/-Material Io-grey" alt="Material Io" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-Kendo-lightgreen" alt="Kendo" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-Rxjs-darkred" alt="Rxjs" loading="lazy" /> 
-<img src="https://img.shields.io/badge/-Visual Studio-pink" alt="Microsoft Visual Studio" loading="lazy" />
-<img src="https://img.shields.io/badge/-Visual Studio Code-blue" alt="Microsoft Visual Studio Code" loading="lazy" />  
+<img src="https://img.shields.io/badge/-Visual Studio-pink" alt="Microsoft Visual Studio" loading="lazy" /><img src="https://img.shields.io/badge/-Visual Studio Code-blue" alt="Microsoft Visual Studio Code" loading="lazy" />  
 <img src="https://img.shields.io/badge/-PostgreSQL-blue" alt="PostgreSQL" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-Microsoft SQL Server-yellow" alt="Microsoft SQL Server" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-WikiJS-darkblue" alt="WikiJS" loading="lazy" /> 
