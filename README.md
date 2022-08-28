@@ -1,3 +1,6 @@
+<img src="https://github.com/fadihanna123/fadihanna123/blob/main/banner.png?raw=true" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%7B+%22name%22%3A+%22Fadi+Hanna%22%2C+age%3A+30+%7D;%7B+%22hobbies%22%3A++%5B'gaming'%2C+'coding'%5D+%7D" alt="Typing SVG" /></a> <br />
+
 Hi i'm <b>Fadi Hanna</b> <br />
 Web developer, smart IT guy and looking for jobs. <br />
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/279/man-technologist_1f468-200d-1f4bb.png" />
@@ -74,7 +77,9 @@ Web developer, smart IT guy and looking for jobs. <br />
 ## Github Stats
 
 ![fadihanna123's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadihanna123&show_icons=true&theme=radical) <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihanna123&theme=tokyonight&langs_count=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihanna123&theme=tokyonight&langs_count=15) <br />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fadihanna123&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fadihanna123)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Certificates
 
@@ -83,5 +88,3 @@ Web developer, smart IT guy and looking for jobs. <br />
 <li> Certificate of Completion CSS Essential Training, Linkedin </li>
 <li> Certificate of Completion HTML Essential Training, Linkedin </li>
 </ul>
-
-View Portofolio : >> <a href="https://mitt-cv.com" target="_blank">Mitt CV</a>
