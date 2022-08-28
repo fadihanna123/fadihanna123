@@ -87,4 +87,5 @@ Web developer, smart IT guy and looking for jobs. <br />
 <li> Higher Education Diploma with specialization in Computer Engineering </li>
 <li> Certificate of Completion CSS Essential Training, Linkedin </li>
 <li> Certificate of Completion HTML Essential Training, Linkedin </li>
+<li> Responsive Web Design, freeCodeCamp </li>
 </ul>
