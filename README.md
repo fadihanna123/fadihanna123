@@ -40,7 +40,7 @@ Web developer, smart IT guy and looking for jobs. <br />
 <img src="https://img.shields.io/badge/-Emotion JS-pink" alt="Emotion JS" loading="lazy" />
 <img src="https://img.shields.io/badge/-Recoil State Management-darkblue" alt="Recoil State Management" loading="lazy" />
 <img src="https://img.shields.io/badge/-Eslint-darkblue" alt="Eslint" loading="lazy" />
-<img src="https://img.shields.io/badge/-Express.js-gray" alt="Express.js" loading="lazy" /> <br /> 
+<img src="https://img.shields.io/badge/-Express.js-gray" alt="Express.js" loading="lazy" />
 <img src="https://img.shields.io/badge/-MySQL-orange" alt="MySQL" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-Mongodb-success" alt="Mongodb" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML" loading="lazy" /> 
@@ -53,7 +53,6 @@ Web developer, smart IT guy and looking for jobs. <br />
 <img src="https://img.shields.io/badge/-Git Flow-black" alt="Git Flow" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-jQuery-black" alt="jQuery" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-JSON-black" alt="JSON" loading="lazy" /> 
-<br />
 <img src="https://img.shields.io/badge/-API-informational" alt="API" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-CMS-informational" alt="CMS" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-Adobe Photoshop-darkblue" loading="lazy" alt="Adobe Photoshop" /> 
@@ -64,7 +63,7 @@ Web developer, smart IT guy and looking for jobs. <br />
 <img src="https://img.shields.io/badge/-Assembla-white" alt="Assembla" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-Agil/Scrum-darkred" alt="Agil/Scrum" loading="lazy" />
 <img src="https://img.shields.io/badge/-VPS-blue" alt="VPS" loading="lazy" /> 
-<img src="https://img.shields.io/badge/-SSH-black" alt="SSH" loading="lazy" /> <br />
+<img src="https://img.shields.io/badge/-SSH-black" alt="SSH" loading="lazy" />
 
 ## Connect Me:
 
