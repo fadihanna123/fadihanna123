@@ -7,7 +7,7 @@ Web developer, smart IT guy and looking for jobs. <br />
 
 ## Skills:
 
-<img src="https://img.shields.io/badge/-React.js-blueviolet" alt="React.js" loading="lazy" /><img src="https://img.shields.io/badge/-Angular-darkred" alt="Angular" loading="lazy" /> 
+<img src="https://img.shields.io/badge/-React.js-blueviolet" alt="React.js" loading="lazy" /> <img src="https://img.shields.io/badge/-Angular-darkred" alt="Angular" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-Angular Command Line-darkred" alt="Angular Command Line" loading="lazy" />
 <img src="https://img.shields.io/badge/-Redux-blueviolet" alt="Redux" loading="lazy" /> 
 <img src="https://img.shields.io/badge/-JavaScript-blueviolet" alt="JavaScript" loading="lazy" /> 
