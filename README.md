@@ -85,5 +85,6 @@ Web developer, smart IT guy and looking for jobs. <br />
 <li> Certificate of Completion CSS Essential Training, Linkedin </li>
 <li> Certificate of Completion HTML Essential Training, Linkedin </li>
 <li> Certificate of JavaScript Essential Training, Linkedin </li>
+<li> Certificate of Typescript Essential Training, Linkedin </li>
 <li> Responsive Web Design, freeCodeCamp </li>
 </ul>
