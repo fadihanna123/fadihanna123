@@ -12,6 +12,7 @@ Web developer, smart IT guy and looking for jobs. <br />
 <img src="https://img.shields.io/badge/-Redux-blueviolet" alt="Redux" loading="lazy" />
 <img src="https://img.shields.io/badge/-JavaScript-blueviolet" alt="JavaScript" loading="lazy" />
 <img src="https://img.shields.io/badge/-Axios-blueviolet" alt="Axios" loading="lazy" />
+<img src="https://img.shields.io/badge/-Webpack-white" alt="Webpack" loading="lazy" />
 <img src="https://img.shields.io/badge/-Jest-green" alt="Axios" loading="lazy" />
 <img src="https://img.shields.io/badge/-PHP-blue" alt="PHP" loading="lazy" />
 <img src="https://img.shields.io/badge/-React Native-blue" alt="React Native" loading="lazy" />
