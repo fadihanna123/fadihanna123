@@ -92,4 +92,5 @@ Web developer, smart IT guy and looking for jobs. <br />
 <li> Certified CSS Developer </li>
 <li> Certified JavaScript Developer </li>
 <li> Certified Front End Developer </li>
+<li> React: Testing and Debugging </li>
 </ul>
