@@ -3,8 +3,6 @@
 
 Hi i'm <b>Fadi Hanna</b> <br />
 Web developer, smart IT guy and looking for jobs. <br />
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/279/man-technologist_1f468-200d-1f4bb.png" />
-
 ## Skills:
 
 <img src="https://img.shields.io/badge/-React.js-blueviolet" alt="React.js" loading="lazy" /> <img src="https://img.shields.io/badge/-Angular-darkred" alt="Angular" loading="lazy" />
