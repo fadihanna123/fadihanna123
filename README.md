@@ -64,7 +64,7 @@ Web developer, smart IT guy and looking for jobs. <br />
 <img src="https://img.shields.io/badge/-SSH-black" alt="SSH" loading="lazy" />
 
 ## Connect Me:
-<a href="https://linktr.ee/fadihanna">Linktree</a><br />
+<a target='_blank' href="https://linktr.ee/fadihanna">Linktree</a><br />
 [![](https://img.shields.io/badge/%20-Facebook-blue?color=blue&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100029623099856)
 [![](https://img.shields.io/badge/%20-Linkedin-blue?color=blue&labelColor=blue&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fadi-hanna-5506401b0/)
 [![](https://img.shields.io/badge/%20-Github-white?color=black&labelColor=white&logo=Github&logoColor=black)](https://github.com/fadihanna123) <br />
