@@ -3,7 +3,7 @@
 
 Hi i'm <b>Fadi Hanna</b> <br />
 Web developer, smart IT guy and looking for jobs. <br />
-I started learning year 2010. I became interested in web development, and have continued with the track ever since then. <br />
+I became interested in web development year 2010, and have continued with the track ever since then. <br />
 I have been educated as a developer, with a focus on web development. I would call myself a Fullstack developer, <br />
 as I worked with both Backend (PHP, Node JS) and Frontend development (JavaScript, React, Angular, TypeScript, HTML, CSS etc.). <br />
 ## Skills:
