@@ -3,6 +3,8 @@
 
 Hi i'm <b>Fadi Hanna</b> <br />
 Web developer, smart IT guy and looking for jobs. <br />
+I am a happy, social person who enjoys life and has my heart in the right place! In that time I became interested in web development, and have continued with the track ever since then. <br />
+I have been educated as a developer, with a focus on web development. I would call myself a Fullstack developer, as I worked with both Backend (PHP, Node JS) and Frontend development (JavaScript, React, Angular, TypeScript, HTML, CSS etc.). <br />
 ## Skills:
 
 <img src="https://img.shields.io/badge/-React.js-blueviolet" alt="React.js" loading="lazy" /> <img src="https://img.shields.io/badge/-Angular-darkred" alt="Angular" loading="lazy" />
