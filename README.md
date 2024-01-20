@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Fadi+Hanna%22%2C+age%3A+31+%7D;%7B+hobbies%3A++%5B%27gaming%27%2C+%27coding%27%5D+%7D" alt="Typing SVG" /></a> <br />
 
 Hi i'm <b>Fadi Hanna</b> <br />
-Web developer, smart IT guy and looking for jobs. <br />
+A Fullstack developer, smart IT guy and looking for jobs. <br />
 I became interested in web development year 2010, and have continued with the track ever since then. <br />
 I have been educated as a developer, with a focus on web development. I would call myself a Fullstack developer, <br />
 as I worked with both Backend (PHP, Node JS) and Frontend development (JavaScript, React, Angular, TypeScript, HTML, CSS etc.). <br />
