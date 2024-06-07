@@ -79,19 +79,3 @@ as I worked with both Backend (PHP, Node JS) and Frontend development (JavaScrip
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihanna123&theme=tokyonight&langs_count=15) <br />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fadihanna123&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=fadihanna123)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Certificates
-
-<ul>
-<li> Higher Education Diploma with specialization in Computer Engineering </li>
-<li> Certificate of Completion CSS Essential Training, Linkedin </li>
-<li> Certificate of Completion HTML Essential Training, Linkedin </li>
-<li> Certificate of JavaScript Essential Training, Linkedin </li>
-<li> Certificate of Typescript Essential Training, Linkedin </li>
-<li> Responsive Web Design, freeCodeCamp </li>
-<li> Certified HTML Developer </li>
-<li> Certified CSS Developer </li>
-<li> Certified JavaScript Developer </li>
-<li> Certified Front End Developer </li>
-<li> React: Testing and Debugging </li>
-</ul>
