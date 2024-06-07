@@ -4,8 +4,7 @@
 Hi i'm <b>Fadi Hanna</b> <br />
 A Fullstack developer, smart IT guy and looking for jobs. <br />
 I became interested in web development year 2010, and have continued with the track ever since then. <br />
-I would call myself a Fullstack developer, <br />
-as I worked with both Backend (PHP, Node JS) and Frontend development (JavaScript, React, Angular, TypeScript, HTML, CSS etc.). <br />
+I would call myself a Fullstack developer, as I worked with both Backend (PHP, Node JS) and Frontend development (JavaScript, React, Angular, TypeScript, HTML, CSS etc.). <br />
 ## Skills:
 
 <img src="https://img.shields.io/badge/-React.js-blueviolet" alt="React.js" loading="lazy" /> <img src="https://img.shields.io/badge/-Angular-darkred" alt="Angular" loading="lazy" />
