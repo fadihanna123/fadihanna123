@@ -66,6 +66,7 @@ I would call myself a Fullstack developer, as I worked with both Backend (PHP, N
 <img src="https://img.shields.io/badge/-SSH-black" alt="SSH" loading="lazy" />
 
 ## Connect Me:
+<a href="https://my-cv123.netlify.app">My CV</a><br />
 <a href="https://linktr.ee/fadihanna">Linktree</a><br />
 [![](https://img.shields.io/badge/%20-Facebook-blue?color=blue&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100029623099856)
 [![](https://img.shields.io/badge/%20-Github-white?color=black&labelColor=white&logo=Github&logoColor=black)](https://github.com/fadihanna123) <br />
