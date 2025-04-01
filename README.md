@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Fadi Hanna and I'm a Software Engineer</h2>
 
-###
+<h3 align="center"><a href="https://my-cv123.netlify.app/">Learn Me ↗️</a></h3>
 
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/fadihanna123/fadihanna123/refs/heads/main/banner.png"  />
@@ -101,6 +101,7 @@
 
 
 <div align="left">
+
   <a href="https://linktr.ee/fadihanna" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
