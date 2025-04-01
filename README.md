@@ -1,80 +1,123 @@
-<img src="https://github.com/fadihanna123/fadihanna123/blob/main/banner.png?raw=true" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=%7B+name%3A+%22Fadi+Hanna%22%2C+age%3A+32+%7D;%7B+hobbies%3A++%5B%27gaming%27%2C+%27coding%27%5D+%7D" alt="Typing SVG" /></a> <br />
+<h2 align="left">Hi 👋! My name is Fadi Hanna and I'm a Software Engineer</h2>
 
-Hi i'm <b>Fadi Hanna</b> <br />
-A Fullstack developer, smart IT guy and looking for jobs. <br />
-I became interested in web development year 2010, and have continued with the track ever since then. <br />
-I would call myself a Fullstack developer, as I worked with both Backend (PHP, Node JS) and Frontend development (JavaScript, React, Angular, TypeScript, HTML, CSS etc.). <br />
-## Skills:
+###
 
-<img src="https://img.shields.io/badge/-React.js-blueviolet" alt="React.js" loading="lazy" /> <img src="https://img.shields.io/badge/-Angular-darkred" alt="Angular" loading="lazy" />
-<img src="https://img.shields.io/badge/-Angular Command Line-darkred" alt="Angular Command Line" loading="lazy" />
-<img src="https://img.shields.io/badge/-Redux-blueviolet" alt="Redux" loading="lazy" />
-<img src="https://img.shields.io/badge/-JavaScript-blueviolet" alt="JavaScript" loading="lazy" />
-<img src="https://img.shields.io/badge/-Axios-blueviolet" alt="Axios" loading="lazy" />
-<img src="https://img.shields.io/badge/-Webpack-white" alt="Webpack" loading="lazy" />
-<img src="https://img.shields.io/badge/-Jest-green" alt="Axios" loading="lazy" />
-<img src="https://img.shields.io/badge/-PHP-blue" alt="PHP" loading="lazy" />
-<img src="https://img.shields.io/badge/-React Native-blue" alt="React Native" loading="lazy" />
-<img src="https://img.shields.io/badge/-Azure-blue" alt="Azure" aria-label="Azure" loading="lazy" />
-<img src="https://img.shields.io/badge/-Strapi-blue" alt="Strapi CMS" loading="lazy" />
-<img src="https://img.shields.io/badge/-Wordpress-blue" alt="Wordpress" loading="lazy" />
-<img src="https://img.shields.io/badge/-.NET-blueviolet" alt=".NET" loading="lazy" />
-<img src="https://img.shields.io/badge/-ASP.NET-blueviolet" alt="ASP.NET" loading="lazy" />
-<img src="https://img.shields.io/badge/-Prisma-white" alt="Prisma" loading="lazy" />
-<img src="https://img.shields.io/badge/-Typescript-blue" alt="Typescript" loading="lazy" />
-<img src="https://img.shields.io/badge/-Node JS-success" alt="Node JS" loading="lazy" />
-<img src="https://img.shields.io/badge/-Npm-darkred" alt="Npm" loading="lazy" />
-<img src="https://img.shields.io/badge/-Material Io-grey" alt="Material Io" loading="lazy" />
-<img src="https://img.shields.io/badge/-Kendo-lightgreen" alt="Kendo" loading="lazy" />
-<img src="https://img.shields.io/badge/-Rxjs-darkred" alt="Rxjs" loading="lazy" />
-<img src="https://img.shields.io/badge/-Visual Studio-pink" alt="Microsoft Visual Studio" loading="lazy" /> <img src="https://img.shields.io/badge/-Visual Studio Code-blue" alt="Microsoft Visual Studio Code" loading="lazy" /> <img src="https://img.shields.io/badge/-PostgreSQL-blue" alt="PostgreSQL" loading="lazy" />
-<img src="https://img.shields.io/badge/-Microsoft SQL Server-yellow" alt="Microsoft SQL Server" loading="lazy" />
-<img src="https://img.shields.io/badge/-WikiJS-darkblue" alt="WikiJS" loading="lazy" />
-<img src="https://img.shields.io/badge/-ObjectOriented Programming-light" alt="Object-Oriented Programming (OOP)" loading="lazy" />
-<img src="https://img.shields.io/badge/-Lodash-silver" alt="Lodash" loading="lazy" />
-<img src="https://img.shields.io/badge/-Google Analytics-darkred" alt="Google Analytics" loading="lazy" />
-<img src="https://img.shields.io/badge/-Ionic-darkblue" alt="Ionic" loading="lazy" />
-<img src="https://img.shields.io/badge/-Expo-black" alt="Expo" loading="lazy" />
-<img src="https://img.shields.io/badge/-Socket.Io-black" alt="Socket.Io" loading="lazy" />
-<img src="https://img.shields.io/badge/-Emotion JS-pink" alt="Emotion JS" loading="lazy" />
-<img src="https://img.shields.io/badge/-Recoil State Management-darkblue" alt="Recoil State Management" loading="lazy" />
-<img src="https://img.shields.io/badge/-Eslint-darkblue" alt="Eslint" loading="lazy" />
-<img src="https://img.shields.io/badge/-Express.js-gray" alt="Express.js" loading="lazy" />
-<img src="https://img.shields.io/badge/-MySQL-orange" alt="MySQL" loading="lazy" />
-<img src="https://img.shields.io/badge/-Mongodb-success" alt="Mongodb" loading="lazy" />
-<img src="https://img.shields.io/badge/-HTML-orange" alt="HTML" loading="lazy" />
-<img src="https://img.shields.io/badge/-CSS-darkblue" alt="CSS" loading="lazy" />
-<img src="https://img.shields.io/badge/-SASS-pink" alt="SASS" loading="lazy" />
-<img src="https://img.shields.io/badge/-Bulma-green" alt="Bulma" loading="lazy" />
-<img src="https://img.shields.io/badge/-Bootstrap-darkblue" alt="BootStrap" loading="lazy" />
-<img src="https://img.shields.io/badge/-Pug JS-orange" alt="Pug JS" loading="lazy" />
-<img src="https://img.shields.io/badge/-Git-black" alt="Git" loading="lazy" />
-<img src="https://img.shields.io/badge/-Git Flow-black" alt="Git Flow" loading="lazy" />
-<img src="https://img.shields.io/badge/-jQuery-black" alt="jQuery" loading="lazy" />
-<img src="https://img.shields.io/badge/-JSON-black" alt="JSON" loading="lazy" />
-<img src="https://img.shields.io/badge/-API-informational" alt="API" loading="lazy" />
-<img src="https://img.shields.io/badge/-CMS-informational" alt="CMS" loading="lazy" />
-<img src="https://img.shields.io/badge/-Adobe Photoshop-darkblue" loading="lazy" alt="Adobe Photoshop" />
-<img src="https://img.shields.io/badge/-Adobe XD-darkred" alt="Adobe XD" loading="lazy" />
-<img src="https://img.shields.io/badge/-Heroku-blue" alt="Heroku" loading="lazy" />
-<img src="https://img.shields.io/badge/-Csharp-black" alt="C#" loading="lazy" />
-<img src="https://img.shields.io/badge/-Gulp-darkred" alt="Gulp" loading="lazy" />
-<img src="https://img.shields.io/badge/-Assembla-white" alt="Assembla" loading="lazy" />
-<img src="https://img.shields.io/badge/-Agil/Scrum-darkred" alt="Agil/Scrum" loading="lazy" />
-<img src="https://img.shields.io/badge/-VPS-blue" alt="VPS" loading="lazy" />
-<img src="https://img.shields.io/badge/-SSH-black" alt="SSH" loading="lazy" />
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/fadihanna123/fadihanna123/refs/heads/main/banner.png"  />
+</div>
 
-## Connect Me:
-<a href="https://my-cv123.netlify.app">My CV</a><br />
-<a href="https://linktr.ee/fadihanna">Linktree</a><br />
-[![](https://img.shields.io/badge/%20-Facebook-blue?color=blue&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100029623099856)
-[![](https://img.shields.io/badge/%20-Github-white?color=black&labelColor=white&logo=Github&logoColor=black)](https://github.com/fadihanna123) <br />
-<a href="mailto:fhanna181@gmail.com">Email ME</a>
+###
 
-## Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fadihanna123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadihanna123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-![fadihanna123's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadihanna123&show_icons=true&theme=radical) <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihanna123&theme=tokyonight&langs_count=15) <br />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fadihanna123&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=fadihanna123)](https://github.com/ryo-ma/github-profile-trophy)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=emotion" height="30" alt="emotion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" alt="bulma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pug" height="30" alt="pug logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="30" alt="gulp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpsdTZxYmM4eGJzb2N0NGN3ZW1lN2lxaDU5MTRrODM2NWRiZzc0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://linktr.ee/fadihanna" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+  <a href="ilovereact" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100029623099856" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/fadihanna_123/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/fadihanna123/fadihanna123/output/snake.svg" alt="Snake animation" />
+
+###
